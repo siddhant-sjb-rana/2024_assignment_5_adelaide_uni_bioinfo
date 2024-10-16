@@ -15,3 +15,9 @@
 - Removed XXXXXXX from line 1 and line 5 to fix issue #63 
 
 ## 2024-10-16
+
+### Changed 
+
+- Switched UPPERCASE letters to lowercase letters in line 1 and line 5 to fix issue #64
+
+## 2024-10-16
